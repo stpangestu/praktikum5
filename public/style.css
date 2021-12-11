@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(221, 208, 208);
+}
+header {
+  background-color: hotpink;
+}
+a {
+  color: black !important;
+}
+button {
+  color: hotpink;
+}
+h1 {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
